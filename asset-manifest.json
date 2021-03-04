@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mingren/static/css/main.ce85c347.chunk.css",
+    "main.js": "/Mingren/static/js/main.090b4f16.chunk.js",
+    "main.js.map": "/Mingren/static/js/main.090b4f16.chunk.js.map",
+    "runtime-main.js": "/Mingren/static/js/runtime-main.0c8e4807.js",
+    "runtime-main.js.map": "/Mingren/static/js/runtime-main.0c8e4807.js.map",
+    "static/js/2.1df027c5.chunk.js": "/Mingren/static/js/2.1df027c5.chunk.js",
+    "static/js/2.1df027c5.chunk.js.map": "/Mingren/static/js/2.1df027c5.chunk.js.map",
+    "static/js/3.db47d2b8.chunk.js": "/Mingren/static/js/3.db47d2b8.chunk.js",
+    "static/js/3.db47d2b8.chunk.js.map": "/Mingren/static/js/3.db47d2b8.chunk.js.map",
+    "index.html": "/Mingren/index.html",
+    "static/css/main.ce85c347.chunk.css.map": "/Mingren/static/css/main.ce85c347.chunk.css.map",
+    "static/js/2.1df027c5.chunk.js.LICENSE.txt": "/Mingren/static/js/2.1df027c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c8e4807.js",
+    "static/js/2.1df027c5.chunk.js",
+    "static/css/main.ce85c347.chunk.css",
+    "static/js/main.090b4f16.chunk.js"
+  ]
+}
